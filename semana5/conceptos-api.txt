@@ -1,0 +1,31 @@
+ Ruta: http://localhost:3000
+Muestra el mensaje principal del servidor y confirma que está funcionando correctamente.
+
+Ruta: http://localhost:3000/saludo
+Muestra un saludo enviado por el servidor al usuario.
+
+Ruta: http://localhost:3000/mensaje/juan
+Muestra un mensaje personalizado utilizando el nombre "Juan" que fue enviado en la URL.
+[1:23 p. m., 23/6/2026] Karla P: Ruta: http://localhost:3000
+
+¿Qué hace?
+Muestra la página principal o mensaje de bienvenida del servidor.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Para mostrar información general de la comunidad, noticias importantes o instrucciones para los usuarios.
+
+Ruta: http://localhost:3000/saludo
+
+¿Qué hace?
+Muestra un saludo enviado por el servidor.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Para dar la bienvenida a los usuarios cuando ingresan a la plataforma.
+
+Ruta: http://localhost:3000/mensaje/juan
+
+¿Qué hace?
+Muestra un mensaje personalizado utilizando el nombre que se envía en la URL.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Para enviar mensajes personalizados a los miembros de la comunidad, como avisos, recordatorios o notificaciones.
