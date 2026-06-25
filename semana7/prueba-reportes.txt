@@ -1,0 +1,11 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve un arreglo con todos los reportes registrados previamente mediante la ruta POST. Cada reporte contiene un identificador, el tipo de incidencia y la descripción proporcionada por el usuario.
+
+Ejemplo de respuesta:
+
+[
+{
+"id": 1,
+"tipo": "Infraestructura",
+"descripcion": "Daño en alumbrado público"
+}
+]
