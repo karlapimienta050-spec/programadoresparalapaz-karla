@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios.
+2. Proteger las credenciales de acceso.
+3. Utilizar conexiones seguras.
+4. Registrar los accesos y actividades realizadas.
+5. Limitar el acceso a información sensible.
